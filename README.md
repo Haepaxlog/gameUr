@@ -2,12 +2,7 @@
 ![Cuneiform](https://www.ancientgames.org/wp-content/uploads/Cuneiform-Tablet-with-rules-for-The-Game-of-Twenty-Squares-British-Museum-Rm-III.6.b-%E2%80%93-33333B-Back-Side.jpg)
 ### What is it?
 
-The Royal Game of Ur is one of the **oldest** in our known world. It was discorved by an Assyriologist at the
-British Museum, Irvin Finkel, who single handedly deciphered an Akkadian tablet describing the rules of that 
-then unknown game. It was then brought to our attention, when Tom Scott, a British Youtube "celebrity", published
-a video with said Assyrologist. We were more than astounded how well it played despite being nearly as old
-as civilisation itself. It was that reason, we decided to create our own distribution of the game - with eagerness
-I might add.
+The Royal Game of Ur is one of the **oldest** in our known world. 
 
 >To see a complete match of The Royal Game of Ur, click [here](https://www.youtube.com/watch?v=WZskjLq040I&t=339s)!
 
@@ -38,20 +33,19 @@ The player will have a go at the dice, after which the current player takes his 
 Each turn, after throwing, a player can either move an already placed stone or place a new stone as many fields as
 he has thrown. Of course, you cannot move or place a stone at a field that is already occupied by yourself. But what
 you can do is, moving your stone to the position of the enemy's stone, whereby you will take his place and he will
-have to reset his stone to his starting pile ```so far so good```.
+have to reset his stone to his starting pile.
 Remember those flower-like fields? Well, those are our safe harbours; the enemy will not be able to usurp our
-position there, also they double as a throw-again field ```bully for you, chap```.
+position there, also they double as a throw-again field.
 
 > Remember, there may be rounds ahead, where you are unable to do anything at all, because of which you will 
 need to end your turn 
 
 ##### How do I win?
 
-Easy, just make all your pieces work for you by letting all seven complete their full rounds ```irnittu!```.
+Easy, just make all your pieces work for you by letting all seven complete their full rounds.
 But **keep your mind sharp**, you need to have the exact throw to get your stone off the board,
-don't let those **Hittites** fool you, ```itbāru```.
+don't let those **Hittites** fool you.
 
-> My Akkadian is a bit rusty, but that translates to victory
 
 
 
